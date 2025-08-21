@@ -6,9 +6,6 @@
     <title>Recipes</title>
   </head>
   <body>
-    <h1>Odin Recipes</h1>
-    <ul>
-      <li><a href="recipes/lasagna.html">Lasagna</a></li>
-    </ul>
+    <div id="app"></div>
   </body>
 </html>

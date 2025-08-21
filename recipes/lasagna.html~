@@ -3,12 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Recipes</title>
+    <title>Lasagna</title>
   </head>
   <body>
-    <h1>Odin Recipes</h1>
-    <ul>
-      <li><a href="recipes/lasagna.html">Lasagna</a></li>
-    </ul>
+    <h1>Lasagna</h1>
+    <img src="images/lasagna.jpg">
+    <h2>Description</h2>
+    <p>
+    <a href="../index.html">Back Home</a>
   </body>
 </html>
